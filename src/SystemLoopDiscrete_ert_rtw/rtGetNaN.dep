@@ -1,0 +1,14 @@
+rtGetNaN.o: \
+ C:/Users/Marco/Desktop/GitHub/MotorAdvancedControlEmbedded/src/SystemLoopDiscrete_ert_rtw/rtGetNaN.c \
+ C:/ProgramData/MATLAB/SupportPackages/R2023a/toolbox/target/supportpackages/stmnucleo/mbed/NUCLEO_F401RE/mbed_config.h \
+ C:/Users/Marco/Desktop/GitHub/MotorAdvancedControlEmbedded/src/SystemLoopDiscrete_ert_rtw/rtwtypes.h \
+ C:/Users/Marco/Desktop/GitHub/MotorAdvancedControlEmbedded/src/SystemLoopDiscrete_ert_rtw/rtGetNaN.h \
+ C:/Users/Marco/Desktop/GitHub/MotorAdvancedControlEmbedded/src/SystemLoopDiscrete_ert_rtw/rt_nonfinite.h
+
+C:/ProgramData/MATLAB/SupportPackages/R2023a/toolbox/target/supportpackages/stmnucleo/mbed/NUCLEO_F401RE/mbed_config.h:
+
+C:/Users/Marco/Desktop/GitHub/MotorAdvancedControlEmbedded/src/SystemLoopDiscrete_ert_rtw/rtwtypes.h:
+
+C:/Users/Marco/Desktop/GitHub/MotorAdvancedControlEmbedded/src/SystemLoopDiscrete_ert_rtw/rtGetNaN.h:
+
+C:/Users/Marco/Desktop/GitHub/MotorAdvancedControlEmbedded/src/SystemLoopDiscrete_ert_rtw/rt_nonfinite.h:
